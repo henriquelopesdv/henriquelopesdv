@@ -2,7 +2,7 @@
 
 **`Desenvolvedor PHP/PYTHON`**
 
-<b>Estudo, exploro e desenvolvo em PHP e Python para construir soluções eficientes e escaláveis. </b>Sempre em busca de desafios e aprendizado contínuo, mergulho no universo dos dados, automação e processamento de informações, explorando maneiras de tornar processos mais inteligentes e otimizados. Tenho interesse em <b>segurança, hacking ético e machine learning,</b> áreas que expandem as possibilidades da tecnologia e ampliam a compreensão sobre sistemas, IA e sua proteção. No frontend, utilizo React, JavaScript, Bootstrap, e Tailwind.
+<b>Estudo, exploro e desenvolvo em PHP e Python para construir soluções eficientes e escaláveis. </b>Sempre em busca de desafios e aprendizado contínuo, mergulho no universo dos dados, automação e processamento de informações, explorando maneiras de tornar processos mais inteligentes e otimizados. Tenho interesse em <b>segurança, hacking ético e machine learning,</b> áreas que expandem as possibilidades da tecnologia e ampliam a compreensão sobre sistemas, IA e sua proteção. 
 
 //
 
